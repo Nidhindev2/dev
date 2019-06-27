@@ -1,0 +1,9 @@
+Started by user [8mha:////4Oxy8+1lAMeFHE1VVNeUC05yZEGaiS91jVI3jJE7lglMAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZu/dLi1CL9xJTczDwAawhpaMAAAAA=[0mnidhindev
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/test2
+[test2] $ /bin/sh -xe /tmp/jenkins6789673729877281697.sh
++ cd /tmp
++ mkdir Nidhindev
+mkdir: cannot create directory ‘Nidhindev’: File exists
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

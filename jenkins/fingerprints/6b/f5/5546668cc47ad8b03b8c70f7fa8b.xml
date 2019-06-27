@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-06-23 18:10:33.371 UTC</timestamp>
+  <md5sum>6bf55546668cc47ad8b03b8c70f7fa8b</md5sum>
+  <fileName>Credential id=5046e70d-0d4f-44a6-a7d3-fa0f6b67b05e name=Nidhindev2/******</fileName>
+  <usages>
+    <entry>
+      <string>test2</string>
+      <ranges>19</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

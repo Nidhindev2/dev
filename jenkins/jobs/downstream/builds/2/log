@@ -1,0 +1,8 @@
+Started by user [8mha:////4Oxy8+1lAMeFHE1VVNeUC05yZEGaiS91jVI3jJE7lglMAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZu/dLi1CL9xJTczDwAawhpaMAAAAA=[0mnidhindev
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/downstream
+[downstream] $ /bin/sh -xe /tmp/jenkins976101257413991899.sh
++ cd /tmp
++ mkdir nidhintest2
+Triggering a new build of [8mha:////4JAcQpCsbjUt/rJ62ANgJcAQV94EsvMMVW3FPnUY/ANmAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP2Q1OKS3MqCovwsfQDeOKNTxQAAAA==[0mTestmyproj
+Finished: SUCCESS
